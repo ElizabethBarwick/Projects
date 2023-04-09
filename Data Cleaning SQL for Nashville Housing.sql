@@ -1,4 +1,4 @@
--- Cleaning Data in SQL Queries
+-- Cleaning Data in SQL
 
 -- This file shows Nashville Housing data including sale dates, prices, owners for different parcel IDs and property addresses.
 -- The following SQL code is used to clean and prepare the data so that it is in a more consistent and usable format.
